@@ -6,8 +6,6 @@
 	1. [Install dSPACE Installation Manager](#install-dspace-installation-manager)
 	1. [Licensing dSPACE For All Dongles](#licensing-dspace-for-all-dongles)
 
-<!doctype
-
 #dSPACE Setup
 [top](#index)  
 
