@@ -1,10 +1,11 @@
-# Index  1. [dSPACE Setup](#dspace-setup)
+1. [dSPACE Setup](#dspace-setup)
 	1. [Installing MATLAB](#installing-matlab)
 	1. [Installing .Net 3.5](#installing-net-35)
 	1. [Install dSPACE](#install-dspace)
 	1. [Install dSPACE Installation Manager](#install-dspace-installation-manager)
 	1. [Licensing dSPACE For All Dongles](#licensing-dspace-for-all-dongles)
 
+# Index
 <!doctype
 
 #dSPACE Setup
