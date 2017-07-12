@@ -1,27 +1,27 @@
 # Index
-1. [dSPACE Setup](#dspace-setup)
-	1. [Installing MATLAB](#installing-matlab)
-	1. [Installing .Net 3.5](#installing-net-35)
-	1. [Install dSPACE](#install-dspace)
-	1. [Install dSPACE Installation Manager](#install-dspace-installation-manager)
-	1. [Licensing dSPACE For All Dongles](#licensing-dspace-for-all-dongles)
+1. [ dSPACE Setup](#dspace-setup)
+	1. [ Installing MATLAB](#installing-matlab)
+	1. [ Installing .Net 3.5](#installing-net-35)
+	1. [ Install dSPACE](#install-dspace)
+	1. [ Install dSPACE Installation Manager](#install-dspace-installation-manager)
+	1. [ Licensing dSPACE For All Dongles](#licensing-dspace-for-all-dongles)
 
-#dSPACE Setup
+# dSPACE Setup
 [top](#index)  
 
-##Installing MATLAB
+## Installing MATLAB
 [top](#index)  
 
 1. Run auto install script *as Administrator*  located at \\inas2.win.kennesaw.edu\applications\MATLAB\MATLAB <YearVersion>\matlab_R<YearVersion>_win64\matlab_2017a_win64_install.bat
 2. Relax and wait a long time.
 
-##Installing .Net 3.5
+## Installing .Net 3.5
 [top](#index)  
 (You can skip this if you are on Windows 7)
 
 1. Run auto install script *as Administrator* located at \\ksucmfiles.lab.kennesaw.edu\SCCMFiles\Software Packages\dot_net_3.5_offline\<Windows Version>\install_dot_net_3_5.bat
 
-##Install dSPACE
+## Install dSPACE
 [top](#index)  
 
 1. Browse to \\itsstore01.win.kennesaw.edu\groups\Client Support\dSPACE\<CURRENT_YEAR>\Disc1
@@ -33,13 +33,13 @@
 7. During installation you will be asked for the location of 3rd party compilers. If they have not been specifically requested and the media provided to you you can skip them by clicking the Skip button. By default dSPACE and MATLAB use the GNU compiler GC++. It is installed during MATLAB's installation.
 8. Once the installation is finished you will need to reboot.
 
-##Install dSPACE Installation Manager
+## Install dSPACE Installation Manager
 [top](#index)  
 
 1. Browse to \\itsstore01.win.kennesaw.edu\groups\Client Support\dSPACE
 2. Run dSPACE Installation Manager 4.3 Full.exe
 
-##Licensing dSPACE For All Dongles
+## Licensing dSPACE For All Dongles
 [top](#index)  
 
 1. Launch dSPACE Installation Manager
